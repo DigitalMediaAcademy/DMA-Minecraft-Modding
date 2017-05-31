@@ -1,0 +1,10 @@
+itemGroup.examplemod=Example Mod
+tile.examplemod_examplebasicblock.name=Example Basic Block
+item.examplemod_exampleBasicItem.name=Example Basic Item
+item.examplemod_exampleCropItem.name=Example Crop Seed
+item.examplemod_exampleSword.name=Example Sword
+item.examplemod_exampleSpade.name=Example Spade
+item.examplemod_exampleHelmet.name=Example Helmet
+item.examplemod_exampleChestplate.name=Example Chestplate
+item.examplemod_exampleLeggings.name=Example Leggings
+item.examplemod_exampleBoots.name=Example Boots
