@@ -42,7 +42,7 @@ public class ExampleCode
 	
 	// Material Declarations
 	public static ToolMaterial exampleToolMaterial = EnumHelper.addToolMaterial("exampleToolMaterial", 3, 192, 5.0F, 1.5F, 12);
-	public static ArmorMaterial exampleArmorMaterial = EnumHelper.addArmorMaterial("exampleArmorMaterial", "wurscht", 20, new int[] {6, 16, 12, 6}, 12, null, 0);
+	public static ArmorMaterial exampleArmorMaterial = EnumHelper.addArmorMaterial("exampleArmorMaterial", "examplemod:example", 20, new int[] {6, 16, 12, 6}, 12, null, 0);
 		
 	// Item Declarations
 	public static Item exampleBasicItem;
